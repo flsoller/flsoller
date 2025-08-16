@@ -1,6 +1,6 @@
 Hi, 👋 I’m Florian.
 
-I build 🛠️ fullstack applications with web technologies. I :hearts: working with JavaScript and TypeScript.
+I build 🛠️ cloud native applications with modern technologies. I :hearts: working within the AWS ecosystem.
 
-No matter if it's React or Angular on the frontend, or Node with Express on the backend, I enjoy 🎓 learning new things and work with different stacks.
+I enjoy 🎓 learning new things and work with different stacks.
 
